@@ -606,4 +606,5 @@ Hereby, Arduino S.r.l. declares that this product is in compliance with essentia
 
 | Date       | **Revision** | **Changes**   |
 | ---------- | ------------ | ------------- |
-| 04/13/2021 | 1            | First Release |
+| 13/04/2021 | 1            | First Release |
+| 04/04/2022 | 2            | Remove PT1000 not supported |
